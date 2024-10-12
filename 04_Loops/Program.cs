@@ -128,7 +128,7 @@ namespace _04_Loops
 
             #endregion
 
-            #region Örnek Sınav Sorusu
+            #region Örnek Sınav Sorusu 
             //Klavyeden girilen 3 basamaklı sayının basamakları toplamını hesaplayan kodu yazınız.
             //456
             
