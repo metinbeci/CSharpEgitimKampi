@@ -165,7 +165,7 @@ namespace _06_Arrays
             {
                 if (numbers[i] % 2 == 1)
                 {
-                    Console.WriteLine(numbers[i]);
+                    Console.WriteLine(numbers[i]); 
                 }
             }
 
