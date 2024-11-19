@@ -43,7 +43,8 @@ namespace _09_DatabaseProject
                 }
                 Console.WriteLine() ;   
             }
- 
+
+            connection.Close();
 
             Console.Read();
         }
