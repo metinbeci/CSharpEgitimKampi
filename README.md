@@ -64,6 +64,14 @@ Daha karmaşık işlevler için değer döndüren fonksiyonlar yazdım.
 - Bu çalışma sayesinde veritabanı entegrasyonu ve veri akış süreçlerine dair önemli deneyimler kazandım.
 
 ---
+
+### ✨ **Proje 10: Menü Sipariş Yönetim Paneli**
+- Bu projede, temel CRUD (Create, Read, Update, Delete) işlemlerini kullanarak veritabanı ile kapsamlı bir etkileşim gerçekleştirdim. 
+- SQL bağlantıları üzerinden ürün ve kategori bilgilerinin eklenmesi, görüntülenmesi, güncellenmesi ve silinmesi işlemlerini başarıyla uyguladım. 
+- Ayrıca, SQL komutlarını verimli bir şekilde kullanarak veritabanı üzerinde dinamik veri yönetimi sağladım.
+- Bu çalışma, hem veri manipülasyonu süreçlerine hakimiyetimi artırdı hem de daha işlevsel bir yapı geliştirmemi sağladı.
+
+---
 ## 🌟 **Neler Öğrendim?**  
 Bu projeler boyunca:  
 - C# dilinin temel yapı taşlarını,  
