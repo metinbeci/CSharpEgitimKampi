@@ -57,7 +57,13 @@ Daha karmaşık işlevler için değer döndüren fonksiyonlar yazdım.
 - Fonksiyonlar aracılığıyla hesaplamalar yapmayı ve sonuçları dinamik olarak kullanmayı öğrendim.  
 
 ---
+### ✨ **Proje 9: Veritabanı Tabanlı Ürün ve Kategori Yönetim Sistemi**
+- Bu projede, bir veritabanına bağlanarak veri alma ve listeleme işlemlerini gerçekleştirmeyi pekiştirdim.
+- Kullanıcıdan gelen tablo seçimine göre ilgili bilgileri dinamik olarak ekranda gösteren bir uygulama geliştirdim.
+- Veritabanına erişim için SqlConnection ve SqlCommand sınıflarını kullanarak sorgular çalıştırdım.
+- Bu çalışma sayesinde veritabanı entegrasyonu ve veri akış süreçlerine dair önemli deneyimler kazandım.
 
+---
 ## 🌟 **Neler Öğrendim?**  
 Bu projeler boyunca:  
 - C# dilinin temel yapı taşlarını,  
