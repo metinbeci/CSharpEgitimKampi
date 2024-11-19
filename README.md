@@ -1,6 +1,6 @@
 # 🚀 **C# Eğitim Kampı Projeleri**  
 
-Bu repo, Murat Yücedağ'ın rehberliğinde gerçekleştirilen C# Eğitim Kampı boyunca üzerinde çalıştığım projeleri içermektedir. Bu projeler, C# diline dair temel kavramlardan ileri seviyelere kadar uzanan bilgi ve becerilerimi pekiştirmeme olanak sağladı. Her bir proje, kodlama pratiğimi güçlendirdi ve programlamaya bakış açımı geliştirdi.Projeye dair teknik detayları aşağıda paylaştım.
+Bu repo, "**Murat Yücedağ**'ın" rehberliğinde gerçekleştirilen C# Eğitim Kampı boyunca üzerinde çalıştığım projeleri içermektedir. Bu projeler, C# diline dair temel kavramlardan ileri seviyelere kadar uzanan bilgi ve becerilerimi pekiştirmeme olanak sağladı. Her bir proje, kodlama pratiğimi güçlendirdi ve programlamaya bakış açımı geliştirdi.Projeye dair teknik detayları aşağıda paylaştım.
 ## 📚 **Proje Listesi ve Detayları**  
 
 ### ✨ **Proje 1: Merhaba Dünya!**  
